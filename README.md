@@ -7,8 +7,7 @@ This project focuses on detecting fraudulent credit card transactions using **un
 Fraud detection is challenging due to **extreme class imbalance**, where fraudulent transactions represent a very small fraction of the dataset. Instead of treating this as a standard classification problem, this project models fraud as **anomalies in the data distribution**.
 
 The goal was to build a **structured, reproducible pipeline** that:
-+ I wanted to understand how anomaly detection behaves in real-world imbalanced datasets instead of relying only on standard classifiers.
-
+* I wanted to understand how anomaly detection behaves in real-world imbalanced datasets instead of relying only on standard classifiers.
 * models normal and fraudulent behavior
 * identifies anomalies using probabilistic methods
 * optimizes decision thresholds
