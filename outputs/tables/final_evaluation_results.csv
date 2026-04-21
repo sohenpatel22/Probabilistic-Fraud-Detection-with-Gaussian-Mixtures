@@ -1,0 +1,2 @@
+features,n_components_normal,n_components_fraud,best_threshold,validation_f1,test_roc_auc,test_pr_auc,test_precision,test_recall,test_f1
+"['V11', 'V12', 'V14', 'V16', 'V17']",2,3,16.66218082688395,0.7375886524822695,0.9691059940075133,0.6966958911775825,0.7536231884057971,0.7027027027027027,0.7272727272727273
